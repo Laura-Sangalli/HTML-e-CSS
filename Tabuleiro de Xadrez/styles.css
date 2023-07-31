@@ -1,0 +1,277 @@
+.parametros{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    background-color: rgb(238, 195, 116);
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    position: absolute;
+    top: 50%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#casa1{
+    width: 50px;
+    height: 50px;
+    margin-top: -400px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa3{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(32, 17, 5);
+    margin-top: -50px;
+    margin-left: 100px;
+    position: relative;
+}
+
+#casa5{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 200px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa7{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 300px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa9{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa11{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa13{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 250px;
+    background-color: rgb(32, 17, 5);
+}
+
+#casa15{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa15{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa15{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa15{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa17{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: rgb(32, 17, 5);
+}
+#casa19{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 100px;
+    background-color: rgb(32, 17, 5);
+}
+#casa21{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 200px;
+    background-color: rgb(32, 17, 5);
+}
+#casa23{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 300px;
+    background-color: rgb(32, 17, 5);
+}
+#casa25{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    background-color: rgb(32, 17, 5);
+}
+#casa27{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: rgb(32, 17, 5);
+}
+#casa29{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 250px;
+    background-color: rgb(32, 17, 5);
+}
+#casa31{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa33{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: rgb(32, 17, 5);
+}
+#casa35{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 100px;
+    background-color: rgb(32, 17, 5);
+}
+#casa37{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 200px;
+    background-color: rgb(32, 17, 5);
+}
+#casa39{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 300px;
+    background-color: rgb(32, 17, 5);
+}
+#casa41{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    background-color: rgb(32, 17, 5);
+}
+#casa43{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: rgb(32, 17, 5);
+}
+#casa45{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 250px;
+    background-color: rgb(32, 17, 5);
+}
+#casa47{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+#casa49{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: rgb(32, 17, 5);
+}
+#casa51{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 100px;
+    background-color: rgb(32, 17, 5);
+}
+#casa53{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 200px;
+    background-color: rgb(32, 17, 5);
+}
+#casa55{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 300px;
+    background-color: rgb(32, 17, 5);
+}
+#casa57{
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    background-color: rgb(32, 17, 5);
+}
+#casa59{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: rgb(32, 17, 5);
+}
+#casa61{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 250px;
+    background-color: rgb(32, 17, 5);
+}
+#casa63{
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 350px;
+    background-color: rgb(32, 17, 5);
+}
+
+
+
